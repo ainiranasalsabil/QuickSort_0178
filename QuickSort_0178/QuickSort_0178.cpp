@@ -7,4 +7,7 @@ int cmp_count = 0; // jumlah perbandingan
 int mov_count = 0; // jumlah pergerakan data
 int n;
 
+void input() {
+
+}
 
