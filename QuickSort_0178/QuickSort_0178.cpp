@@ -12,6 +12,9 @@ void input() {
         cout << "Masukkan panjang elemen arrya :";
         cin >> n;
 
+        if (n <= 20)
+            break;
+        else
 
 }
 
