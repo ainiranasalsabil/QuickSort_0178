@@ -78,6 +78,10 @@ void display() {
     cout << "Sorted Array" << endl;
     cout << "------------" << endl;
 
+    for (int i = 0; i < n; i++) {
+        cout << arr[i] << " ";
+    }
+
     
                
 
