@@ -8,6 +8,10 @@ int mov_count = 0; // jumlah pergerakan data
 int n;
 
 void input() {
+    while (true) {
+        cout << "Masukkan panjang elemen arrya :";
+        cin >> n;
+
 
 }
 
