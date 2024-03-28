@@ -94,7 +94,12 @@ int main() {
         display();
         cout << "\n\nDo you to continue ? (y/n) :";
         cin >> ch;
+        if (ch == 'n' || ch == 'N')
+            break;
+
         
+
+            }
         
                
 
